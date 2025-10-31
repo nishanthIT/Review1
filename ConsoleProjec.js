@@ -7,5 +7,5 @@ const unique = arr.filter((v, i, a) => a.indexOf(v) === i);
 console.log(unique);
 
 
-
+console.log("added the new thing")
 
