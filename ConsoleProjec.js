@@ -9,5 +9,3 @@ console.log(unique);
 
 console.log("added the new thing")
 
-console.log("added to remove")
-
